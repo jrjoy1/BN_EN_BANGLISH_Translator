@@ -1,0 +1,10 @@
+transformers
+sentencepiece
+sacrebleu
+datasets
+ipywidgets
+huggingface_hub
+sacremoses
+tqdm
+torch
+pandas
